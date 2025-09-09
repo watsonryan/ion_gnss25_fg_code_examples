@@ -1,0 +1,4 @@
+numpy>=1.23
+matplotlib>=3.7
+gtsam
+pytest>=7.0
