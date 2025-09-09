@@ -19,12 +19,12 @@ This repository contains a set of factor graph examples implemented in python us
 ## Examples:
 ---
 
-simple_tutorial:
+* simple_tutorial:
     - Example 1 (odom only):
         -  Show a simple multi-robot odom solution ( each independent )
     - Example 2 (odom + ranging):
         - Extension of Ex1 with ranging to tie multiple robots to common frame
-gnss_tutorial:
+* gnss_tutorial:
     - Example 1: 
         - Single epoch ( static GNSS localization with pseudorange data )
         - batch estimation
